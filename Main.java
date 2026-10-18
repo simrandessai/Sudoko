@@ -1,3 +1,9 @@
+/**
+* @author Simran
+* Roll NO: 2650
+* Program: A Sudoko game of characters "!@#$%^&*?" instead of digits from 1 to 9.
+*/
+
 import javax.swing.*;
 import javax.swing.border.MatteBorder;
 import javax.swing.text.*;
